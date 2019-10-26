@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+		<link href="/EGARGO%20LLAGAS%20MAGDUA%20VILLANUEVA/css.css" rel="stylesheet">
+	
+		<title>Uvercity</title>
+	</head>
+
+	<body>
+		<div class="background-image">
+			<div class="header">
+  				<a href="index.html" class="logo">Uvercity</a>
+  				<div class="header-right">
+    				<a href="discover.html"><font size="2px">Discover</font></a>
+    				<a href="about.html"><font size="2px">About</font></a>
+  				</div>
+			</div>
+		
+		<div class="margin">
+			<p align="center">
+				<font color="#ffffff">
+					Lessons recommended by <b>Uvercity</b> just for you.<br>
+					<font size="2px">What interests you?</font><br><br>
+					&nbsp;&nbsp;<a href="LawofMotion.html" class="button" style="text-decoration: none">Law of Motion</a>
+					&nbsp;&nbsp;<a href="/EGARGO%20LLAGAS%20MAGDUA%20VILLANUEVA/NewtonianGravity.html" class="button" style="text-decoration: none">Law of Universal Gravitation</a>
+					&nbsp;&nbsp;<a href="/EGARGO%20LLAGAS%20MAGDUA%20VILLANUEVA/BalletPhysics.html" class="button" style="text-decoration: none">Momentum</a>
+					&nbsp;&nbsp;<a href="/EGARGO%20LLAGAS%20MAGDUA%20VILLANUEVA/TechnologicalProgress.html" class="button" style="text-decoration: none">Technology</a>
+					&nbsp;&nbsp;<a href="/EGARGO%20LLAGAS%20MAGDUA%20VILLANUEVA/Design.html" class="button" style="text-decoration: none">Design</a>
+					&nbsp;&nbsp;<a href="/EGARGO%20LLAGAS%20MAGDUA%20VILLANUEVA/Business.html" class="button" style="text-decoration: none">Business</a>
+					&nbsp;&nbsp;<a href="/EGARGO%20LLAGAS%20MAGDUA%20VILLANUEVA/History.html" class="button" style="text-decoration: none">History</a>
+					&nbsp;&nbsp;<a href="/EGARGO%20LLAGAS%20MAGDUA%20VILLANUEVA/Snowden.html" class="button" style="text-decoration: none">Activism</a>
+					&nbsp;&nbsp;<a href="/EGARGO%20LLAGAS%20MAGDUA%20VILLANUEVA/Psychology.html" class="button" style="text-decoration: none">Psychology</a>
+				</font>
+			</p>
+
+			<br><br>
+
+			<center>
+				<h2><font color="#ffffff">FEATURED LESSONS</font></h2>
+			</center>
+
+			<table>
+				<tr>
+					<th>Newton's 3 Laws, with a bicycle</th>
+					<th>Newtonian Gravity</th>
+					<th>The physics of the "hardest move" in ballet</th>
+				</tr>
+				<tr>
+					<td>
+						<video class="video" width="360" controls="controls">
+							<source src="/Library.org/Media/Newtons%203%20Laws%20with%20a%20bicycle%20-%20Joshua%20Manley.mp4" type="video/mp4">
+						</video>
+						<p><font size="1px">Courtesy: TED-Ed: Newton's 3 Laws, with a bicycle - Joshua Manley</font></p>
+					</td>
+					<td>
+						<video width="360" controls="controls">
+							<source src="/Library.org/Media/Newtonian%20Gravity%20Crash%20Course%20Physics%208.mp4" type="video/mp4">
+						</video>
+						<p><font size="1px">Courtesy: Newtonian Gravity: Crash Course Physics #8</font></p>
+					</td>
+					<td>
+						<video width="360" controls="controls">
+							<source src="/Library.org/Media/The%20physics%20of%20the%20hardest%20move%20in%20ballet%20-%20Arleen%20Sugano.mp4" type="video/mp4">
+						</video>
+						<p><font size="1px">Courtesy: TED-Ed: The physics of the "hardest move" in ballet - Arleen Sugano</font></p>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+
+	<div class="footer">
+     	<a style="text-decoration:none" href="About.html"><font color="#282828" size="1px">About</font></a>
+      	<p><font size="1px">a Clint Egargo, Sheena Llagas, Jemry Magdua, Raymond Villanueva productions | Uvercity &copy; 2019</p></font>
+	</div>
+
+</html>
